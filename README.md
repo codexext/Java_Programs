@@ -1,7 +1,7 @@
 All the 30 Java Programs are in this repository
 
-Alan Jolly John
+Himanshu
 
-23/SCA/BCA/127
+23/SCA/BCA/020
 
 BCA 4A
